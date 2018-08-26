@@ -4,4 +4,4 @@ Computational geometry algorithms.
 
 ---
 
-> Exploring [Rust]() and [Elm]().
+> Exploring [Rust](rust-lang.org) and [Elm](elm-lang.org).
